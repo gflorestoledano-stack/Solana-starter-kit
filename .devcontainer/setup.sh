@@ -23,7 +23,7 @@ echo "--- Instalación de Rust completada ---"
 
 sudo apt update
 
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bashCopied!   
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash    
 
 source ~/.bashrc  # or ~/.zshrc if using zsh   
 
